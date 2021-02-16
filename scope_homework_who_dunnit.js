@@ -11,7 +11,7 @@
 //   const verdict = declareMurderer();
 //   console.log(verdict);
 
-// // Miss Scarlet as everything looks correct
+  // // Miss Scarlet as everything looks correct
 
 
 // const murderer = 'Professor Plum';
@@ -28,7 +28,7 @@
 // const verdict = declareMurderer();
 // console.log(verdict);
 
-// An error should occur when the changeMurderer function is used because you cannot change the value of the const murderer variable
+  // An error should occur when the changeMurderer function is used because you cannot change the value of the const murderer variable
 
 
 // let murderer = 'Professor Plum';
@@ -44,7 +44,7 @@
 // const secondVerdict = `The murderer is ${murderer}.`;
 // console.log('Second Verdict: ', secondVerdict);
 
-// The first murderer will be Mrs Peacock and the second will be Professor Plum as everything is correct.
+  // The first murderer will be Mrs Peacock and the second will be Professor Plum as everything is correct.
 
 
 // let suspectOne = 'Miss Scarlet';
@@ -60,8 +60,8 @@
 // console.log(suspects);
 // console.log(`Suspect three is ${suspectThree}.`);
 
-// The first log will return Miss Scarlet, Professor Plum, Colonel Mustard
-// The second log will return Mrs Peacock as no function is being used to change suspectThree
+  // The first log will return Miss Scarlet, Professor Plum, Colonel Mustard
+  // The second log will return Mrs Peacock as no function is being used to change suspectThree
 
 
 // const scenario = {
@@ -82,7 +82,7 @@
 //   const verdict = declareWeapon();
 //   console.log(verdict);
 
-//   The weapon will be Revolver as you can change the object values in a const variable
+  //   The weapon will be Revolver as you can change the object values in a const variable
 
 
 // let murderer = 'Colonel Mustard';
@@ -105,8 +105,8 @@
 // const verdict = declareMurderer();
 // console.log(verdict);
 
-// There will be an error as the plot twist is trying to change a const variable
-// I thought the const plotTwist would change the variable type to a const
+  // There will be an error as the plot twist is trying to change a const variable
+  // I thought the const plotTwist would change the variable type to a const
 
 
 // let murderer = 'Professor Plum';
@@ -135,7 +135,7 @@
 // const verdict = declareMurderer();
 // console.log(verdict);
 
-// The murderer is Mr Green as it was only the changeMurderer function that was called.
+  // The murderer is Mr Green as it was only the changeMurderer function that was called.
 
 
 // const scenario = {
@@ -176,18 +176,18 @@
   // Colonel Mustard, Dining Room, Candle Stick
 
 
-let murderer = 'Professor Plum';
+// let murderer = 'Professor Plum';
 
-if (murderer === 'Professor Plum') {
-  let murderer = 'Mrs. Peacock';
-}
+// if (murderer === 'Professor Plum') {
+//   let murderer = 'Mrs. Peacock';
+// }
 
-const declareMurderer = function() {
-  return `The murderer is ${murderer}.`;
-}
+// const declareMurderer = function() {
+//   return `The murderer is ${murderer}.`;
+// }
 
-const verdict = declareMurderer();
-console.log(verdict);
+// const verdict = declareMurderer();
+// console.log(verdict);
 
-// Professor Plum as the if statement should be inside a function and called to change the murderer.
+  // Professor Plum as the if statement should be inside a function and called to change the murderer.
 
