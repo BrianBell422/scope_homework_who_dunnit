@@ -191,3 +191,36 @@
 
   // Professor Plum as the if statement should be inside a function and called to change the murderer.
 
+  // let murderer = 'Miss Scarlet';
+  // let weapon = "candlestick"
+  // let room
+  // const changeMurderer = function(new_murderer){
+  //      murderer = new_murderer;
+  // }
+  // const changeWeapon = function(new_weapon){
+  //     weapon = new_weapon;
+  // }
+  // const newRoom = function(){
+  //     if (!Boolean(room)){
+  //         room = 'Kitchen'
+  //     }
+  // }
+  // const changeScenario = function(){
+  //     newRoom();
+  //     if (weapon === 'Candlestick'){
+  //         changeWeapon('revolver')
+  //     }
+  //     if (murderer === "Miss Scarlet"){
+  //         changeMurderer('Col Mustard')
+  //     } else {
+  //         room = 'Study'
+  //     }
+  // }
+  // const getEverything = function(){
+  //     return `The murderer is ${murderer}, in the ${room} and the weapon is ${weapon}`
+  // }
+  // changeScenario();
+  // const verdict = getEverything();
+  // console.log(verdict)
+
+    // Col Mustard , Kitchen, Candle Stick 
